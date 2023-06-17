@@ -1,0 +1,12 @@
+[debug] Created transactional ClassFileManager with tempDir = E:\DATA-SCIENCE\SEMESTRE 2\HADOOP\tp_hadoop\target\scala-2.12\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Created transactional ClassFileManager with tempDir = E:\DATA-SCIENCE\SEMESTRE 2\HADOOP\tp_hadoop\target\scala-2.12\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	Master1$$typecreator6$1.class
+[debug] 	Master1.class
+[debug] 	Master1$delayedInit$body.class
+[debug] 	Master1$.class
+[debug] Removing the temporary directory used for backing up class files: E:\DATA-SCIENCE\SEMESTRE 2\HADOOP\tp_hadoop\target\scala-2.12\classes.bak
